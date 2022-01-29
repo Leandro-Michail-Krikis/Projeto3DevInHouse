@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "financialData": [
+      {
+        "id": 1,
+        "price": 500,
+        "typesOfExpenses": "comida",
+        "date": "13/01/2021",
+        "name": "Comida"
+      },
+      {
+        "id": 2,
+        "price": 20,
+        "typesOfExpenses": "bebida",
+        "date": "20/02/2021",
+        "name": "Vinho"
+      },
+      {
+        "id": 3,
+        "price": 30,
+        "typesOfExpenses": "comida",
+        "date": "21/02/2022",
+        "name": "Miojo"
+      },
+      {
+        "id": 4,
+        "price": 40,
+        "typesOfExpenses": "Transporte",
+        "date": "22/03/2022",
+        "name": "Uber"
+      },
+      {
+        "id": 1,
+        "price": 500,
+        "typesOfExpenses": "comida",
+        "date": "13/01/2021",
+        "name": "Comida"
+      },
+      {
+        "id": 2,
+        "price": 20,
+        "typesOfExpenses": "bebida",
+        "date": "20/02/2021",
+        "name": "Vinho"
+      },
+      {
+        "id": 3,
+        "price": 30,
+        "typesOfExpenses": "comida",
+        "date": "21/02/2022",
+        "name": "Miojo"
+      },
+      {
+        "id": 4,
+        "price": 40,
+        "typesOfExpenses": "Transporte",
+        "date": "22/03/2022",
+        "name": "Uber"
+      },
+      {
+        "id": 1,
+        "price": 500,
+        "typesOfExpenses": "comida",
+        "date": "13/01/2021",
+        "name": "Comida"
+      },
+      {
+        "id": 2,
+        "price": 20,
+        "typesOfExpenses": "bebida",
+        "date": "20/02/2021",
+        "name": "Vinho"
+      },
+      {
+        "id": 3,
+        "price": 30,
+        "typesOfExpenses": "comida",
+        "date": "21/02/2022",
+        "name": "Miojo"
+      },
+      {
+        "id": 4,
+        "price": 40,
+        "typesOfExpenses": "Transporte",
+        "date": "22/03/2022",
+        "name": "Uber"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "financialData": [
+      {
+        "id": 3,
+        "price": 500,
+        "typesOfExpenses": "Rent",
+        "date": "13/01/2022",
+        "name": "Aluguel"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "financialData": [
+      {
+        "id": 0,
+        "price": 20,
+        "typesOfExpenses": "bebida",
+        "date": "20/01/2022",
+        "name": "Vinho"
+      },
+      {
+        "id": 1,
+        "price": 30,
+        "typesOfExpenses": "comida",
+        "date": "21/02/2022",
+        "name": "Miojo"
+      },
+      {
+        "id": 2,
+        "price": 40,
+        "typesOfExpenses": "Transporte",
+        "date": "22/03/2022",
+        "name": "Uber"
+      }
+    ]
+  }
+]
