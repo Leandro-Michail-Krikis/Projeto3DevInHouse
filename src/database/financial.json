@@ -88,45 +88,5 @@
         "name": "Uber"
       }
     ]
-  },
-  {
-    "id": 3,
-    "userId": 3,
-    "financialData": [
-      {
-        "id": 3,
-        "price": 500,
-        "typesOfExpenses": "Rent",
-        "date": "13/01/2022",
-        "name": "Aluguel"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "userId": 4,
-    "financialData": [
-      {
-        "id": 0,
-        "price": 20,
-        "typesOfExpenses": "bebida",
-        "date": "20/01/2022",
-        "name": "Vinho"
-      },
-      {
-        "id": 1,
-        "price": 30,
-        "typesOfExpenses": "comida",
-        "date": "21/02/2022",
-        "name": "Miojo"
-      },
-      {
-        "id": 2,
-        "price": 40,
-        "typesOfExpenses": "Transporte",
-        "date": "22/03/2022",
-        "name": "Uber"
-      }
-    ]
   }
 ]

@@ -34,6 +34,8 @@ module.exports = {
 
         monthYearConstructor(financialDataOfUser, yearsTemp, monthsYearTemp) 
 
+        
+
         const jsonResponseConstructor = (data, monthsYear) =>{
             jsonResponse = monthsYear
             for (let [keyFather, valueFather] of Object.entries(monthsYear)){
@@ -81,6 +83,8 @@ module.exports = {
             const rows = xlsxData.sheet(0).usedRange().value()
             let errorMessage = ''
             let error = false
+
+
 
 
             let [firstRow, ...newFinancialData] = rows
